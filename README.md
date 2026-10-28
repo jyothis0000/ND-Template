@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# National Dispatching — Next.js site
 
-## Getting Started
-
-First, run the development server:
+Next.js 16 (App Router) + Tailwind v4 site whose layouts follow the hellogravel.com template, with copy, links and
+images from nationaldispatching.com. Everything it needs (code, data, images) lives in this folder.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev     # http://localhost:3000
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Pages
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Route | What it is |
+|---|---|
+| `/` | Homepage |
+| `/equipment`, `/equipment/[category]` | All equipment and the 9 categories (reference "Our Materials" listing) |
+| `/products/[slug]` | 89 product pages (reference product page) |
+| `/services/[slug]` | Rentals, Materials, Trucking, Subcontracting, Procurement & Dispatching (reference "For Contractors" layout) |
+| `/about-us`, `/locations`, `/contact-us` | Reference About, Locations and Contact layouts |
+| `/blog`, `/blog/page/[n]`, `/blog/[slug]` | 134 articles (reference guides index and article) |
+| `/search?q=` | Site search over equipment, categories, services and articles |
+| `/cart`, `/checkout` | Full cart and checkout; the mini cart drawer opens from the header |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Cart
 
-## Learn More
+The cart lives in the visitor's browser (`localStorage`, `lib/cart.ts`). Checkout opens the visitor's email app with the
+order addressed to dispatch@nationaldispatching.com; there is no payment or order backend.
 
-To learn more about Next.js, take a look at the following resources:
+## Content
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `lib/data/catalog.json`, `blog.json`, `services.json` — scraped data (rates, overviews, articles, service cards).
+- `lib/content.ts` — contact details, menus, reviews, FAQ, states; reads the catalog.
+- `lib/products.ts` — product-page copy per lift type and per category, REP®, FAQ.
+- `lib/pages.ts` — Procurement and About page copy.
+- `public/images/` — images downloaded from nationaldispatching.com (`catalog/`, `blog/`, `services/`, `about/`).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Refresh scraped content (prices, new products, new posts):
 
-## Deploy on Vercel
+```bash
+python scripts/scrape_catalog.py . .cache/nd
+python scripts/scrape_site.py . .cache/nd
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Logins and the per-state location pages link out to the live site.

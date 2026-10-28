@@ -1,0 +1,1066 @@
+{
+ "categories": [
+  {
+   "slug": "aerial-work-platforms",
+   "label": "Aerial Work Platforms",
+   "title": "Aerial Work Platform Rentals",
+   "intro": [
+    "National Dispatching provides the highest quality aerial platform rental solutions for construction sites and other demanding projects. Our experienced team of professionals is dedicated to helping you find the right equipment for your needs. With an extensive selection of boom lifts, scissor lifts, and more, we have what you need to get your job done safely and efficiently. We provide our customers with the best products and services available in order to ensure a successful project. We also offer competitive rates on all rentals so that you can stay on budget while still getting the job done right. Contact us today to learn more about how National Dispatching can help make your next construction project a success!"
+   ],
+   "count": 12
+  },
+  {
+   "slug": "forklifts-material-handling",
+   "label": "Forklifts & Material Handling",
+   "title": "Forklifts & Material Handling Rentals",
+   "intro": [
+    "Welcome to National Dispatching, your premier destination for forklifts and material handling solutions. We specialize in providing professional procurement services tailored to the construction industry. Our extensive range of forklifts and material handling equipment includes telehandlers and warehouse forklifts, designed to meet diverse lifting and handling needs. Whether you require a powerful telehandler with impressive reach or a versatile warehouse forklift, we have you covered. With competitive pricing and flexible rental options, National Dispatching is your reliable partner for efficient and cost-effective material handling solutions."
+   ],
+   "count": 6
+  },
+  {
+   "slug": "earthmoving-equipment",
+   "label": "Earthmoving Equipment",
+   "title": "Earthmoving Equipment Rentals",
+   "intro": [
+    "Welcome to National Dispatching, your premier destination for earthmoving equipment rentals. As we are dedicated to serving the construction industry, we offer a diverse range of high-quality equipment to meet your specific needs. Whether you require a wheeled or tracked skid steer, an articulated wheel loader, a trencher, a motor grader, an excavator, or a backhoe loader, we have you covered. With our competitive prices and flexible rental options, accessing top-notch earthmoving equipment has never been easier."
+   ],
+   "count": 40
+  },
+  {
+   "slug": "compaction",
+   "label": "Compaction",
+   "title": "Compaction Rentals",
+   "intro": [
+    "Welcome to National Dispatching, your go-to source for compaction construction tools and other professional procurement services. We are committed to providing our clients with the best products and services they need to get their job done. Our comprehensive selection of compaction equipment includes rammers, rollers, jumping jacks, double drum rollers and more. We also offer trucking, subcontracting and materials services at competitive prices. With decades of experience in the industry, you can trust us to provide you with reliable equipment and exceptional customer service every time. Let us help you find the perfect solution for your project today!"
+   ],
+   "count": 7
+  },
+  {
+   "slug": "generators-light-towers",
+   "label": "Generators & Light Towers",
+   "title": "Generators & Light Towers Rentals",
+   "intro": [
+    "Welcome to National Dispatching’s light tower rentals! We offer professional procurement services for the construction industry. We provide a full range of equipment rental and other products, services and solutions that our clients need to get their job done. Our light towers are available in multiple sizes and powered by either diesel or gas engines, making them perfect for any job site. We also offer generator rentals of various wattages, so you can have the power you need when you need it. At National Dispatching, we believe in providing quality service with every rental so that your project is completed on time and on budget. For more information about our light tower rentals or any of our other products and services, please contact us today!"
+   ],
+   "count": 5
+  },
+  {
+   "slug": "pumps-tanks-filtration",
+   "label": "Pumps, Tanks & Filtration",
+   "title": "Pumps, Tanks & Filtration Rentals",
+   "intro": [
+    "Solve your site’s water problems with our dewatering, water storage and transfer, and industrial pumping services."
+   ],
+   "count": 3
+  },
+  {
+   "slug": "portable-sanitation-services",
+   "label": "Portable Sanitation Services",
+   "title": "Portable Sanitation Services Rentals",
+   "intro": [
+    "Our sanitary, waste management and collection services will keep you OSHA compliant."
+   ],
+   "count": 3
+  },
+  {
+   "slug": "construction-site-services",
+   "label": "Construction Site Services",
+   "title": "Construction Site Services Rentals",
+   "intro": [
+    "Welcome to National Dispatching, your premier provider of construction site services. We specialize in delivering professional procurement solutions tailored to the construction industry. Our comprehensive range of services goes beyond equipment rentals, offering essential products and solutions to ensure your project’s success. From dumpsters and fencing to storage containers and temporary office spaces, we have everything you need to optimize your construction site. With competitive pricing and flexible rental options, we are committed to meeting your specific requirements. Trust National Dispatching for reliable and efficient construction site services in CA. Contact us today for customized project support and unlock the potential of your construction projects."
+   ],
+   "count": 7
+  },
+  {
+   "slug": "trucks-trailers",
+   "label": "Trucks & Trailers",
+   "title": "Trucks & Trailers Rentals",
+   "intro": [
+    "Welcome to National Dispatching’s Trucks & Trailers category, your premier destination for professional truck and trailer rentals in CA. We specialize in providing high-quality procurement services for the construction industry. Choose from our wide selection of Dump Trucks, Equipment Trailers, Cargo Trailers, Water Trucks, and more. With flexible rental options and competitive pricing, we make it easy for you to find the perfect vehicle for your project."
+   ],
+   "count": 6
+  }
+ ],
+ "products": [
+  {
+   "slug": "19-ft-electric-scissor-lift",
+   "ndSlug": "19-ft-electric-scissor-lift",
+   "label": "19 ft Electric Scissor Lift",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 19 feet high, this electric scissor lift is ideal for indoor and outdoor aerial construction and maintenance projects. This is a popular sized aerial platform and is used for work like sign hanging, ceiling and wall work from hard, level surfaces.",
+   "day": "$165",
+   "week": "$405",
+   "month": "$547",
+   "image": "/images/catalog/19-ft-electric-scissor-lift.webp"
+  },
+  {
+   "slug": "26-ft-electric-scissor-lift",
+   "ndSlug": "26-ft-electric-scissor-lift",
+   "label": "26 ft Electric Scissor Lift",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 26 feet high, this electric scissor lift is ideal for indoor and outdoor aerial construction and maintenance projects. This aerial platform is used for work like sign hanging, and ceiling work from hard, level surfaces.",
+   "day": "$205",
+   "week": "$475",
+   "month": "$810",
+   "image": "/images/catalog/26-ft-electric-scissor-lift.webp"
+  },
+  {
+   "slug": "32-ft-rough-terrain-scissor-lift-4wd",
+   "ndSlug": "32-ft-rough-terrain-scissor-lift-4wd",
+   "label": "32 ft Rough Terrain Scissor lift, 4WD",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 32 feet high, this rough terrain scissor lift is ideal for job site conditions where operation on unpaved surfaces is required.",
+   "day": "$299",
+   "week": "$747",
+   "month": "$1,486",
+   "image": "/images/catalog/32-ft-rough-terrain-scissor-lift-4wd.webp"
+  },
+  {
+   "slug": "32-ft-electric-scissor-lift",
+   "ndSlug": "32-ft-electric-scissor-lift",
+   "label": "32 ft Electric Scissor Lift",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 32 feet high, this electric scissor lift is ideal for indoor and outdoor aerial construction and maintenance projects. This aerial platform is used for work like sign hanging, and ceiling work from hard, level surfaces",
+   "day": "$217",
+   "week": "$542",
+   "month": "$1,082",
+   "image": "/images/catalog/32-ft-electric-scissor-lift.webp"
+  },
+  {
+   "slug": "26-ft-rough-terrain-scissor-lift-4wd",
+   "ndSlug": "26-ft-rough-terrain-scissor-lift-4wd",
+   "label": "26 ft Rough Terrain Scissor lift, 4WD",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 26 feet high, this rough terrain scissor lift is ideal for job site conditions where operation on unpaved surfaces is required.",
+   "day": "$272",
+   "week": "$679",
+   "month": "$1,352",
+   "image": "/images/catalog/26-ft-rough-terrain-scissor-lift-4wd.webp"
+  },
+  {
+   "slug": "43-ft-rough-terrain-scissor-lift-4wd",
+   "ndSlug": "43-ft-rough-terrain-scissor-lift-4wd",
+   "label": "43 ft Rough Terrain Scissor lift, 4WD",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 43 feet high, this rough terrain scissor lift is ideal for job site conditions where operation on unpaved surfaces is required.",
+   "day": "$400",
+   "week": "$949",
+   "month": "$2,162",
+   "image": "/images/catalog/43-ft-rough-terrain-scissor-lift-4wd.webp"
+  },
+  {
+   "slug": "40-ft-electric-scissor-lift",
+   "ndSlug": "40-ft-electric-scissor-lift",
+   "label": "40 ft Electric Scissor Lift",
+   "category": "aerial-work-platforms",
+   "overview": "With working heights reaching 40 feet, this size of electric scissor lift is ideal for indoor and outdoor aerial construction and maintenance projects. This aerial platform is best suited to operate from hard, flat surfaces.",
+   "day": "$248",
+   "week": "$800",
+   "month": "$1,825",
+   "image": "/images/catalog/40-ft-electric-scissor-lift.webp"
+  },
+  {
+   "slug": "40-ft-diesel-telescopic-boom-lift",
+   "ndSlug": "40-ft-diesel-telescopic-boom-lift",
+   "label": "40 ft Diesel Telescopic Boom Lift",
+   "category": "aerial-work-platforms",
+   "overview": "40′ straight booms are aerial work platforms with boom sections that extend telescopically. They are also commonly known as “stick” booms because of their straight appearance. Telescopic booms offer greater horizontal outreach than any other type of aerial platform — ideal for areas with limited access in construction, industrial, entertainment, bridge work, painting and inspection applications.",
+   "day": "$345",
+   "week": "$1,001",
+   "month": "$2,221",
+   "image": "/images/catalog/40-ft-diesel-telescopic-boom-lift.webp"
+  },
+  {
+   "slug": "45-ft-diesel-articulating-boom-lift",
+   "ndSlug": "45-ft-diesel-articulating-boom-lift",
+   "label": "45 ft Diesel Articulating Boom Lift",
+   "category": "aerial-work-platforms",
+   "overview": "45′ Articulating booms are aerial work platforms with multiple boom sections that hinge or “articulate” allowing the operator to gain access to work areas over obstacles and barriers with a platform height of up to 45′. Also referred to as “knuckle booms” or “up-and-over booms,” these versatile machines are perfect for tight access and hard-to-reach areas.",
+   "day": "$374",
+   "week": "$1,078",
+   "month": "$2,426",
+   "image": "/images/catalog/45-ft-diesel-articulating-boom-lift.webp"
+  },
+  {
+   "slug": "60-ft-diesel-telescopic-boom-lift",
+   "ndSlug": "60-ft-diesel-telescopic-boom-lift",
+   "label": "60 ft Diesel Telescopic Boom Lift",
+   "category": "aerial-work-platforms",
+   "overview": "60′ straight booms are aerial work platforms with boom sections that extend telescopically. They are also commonly known as “stick” booms because of their straight appearance. Telescopic booms offer greater horizontal outreach than any other type of aerial platform — ideal for areas with limited access in construction, industrial, entertainment, bridge work, painting and inspection applications.",
+   "day": "$536",
+   "week": "$1,349",
+   "month": "$3,243",
+   "image": "/images/catalog/60-ft-diesel-telescopic-boom-lift.webp"
+  },
+  {
+   "slug": "65-66-ft-diesel-articulating-boom-lift",
+   "ndSlug": "65-66-ft-diesel-articulating-boom-lift",
+   "label": "65-66 ft Diesel Articulating Boom Lift",
+   "category": "aerial-work-platforms",
+   "overview": "65-66′ Articulating booms are aerial work platforms with multiple boom sections that hinge or “articulate” allowing the operator to gain access to work areas over obstacles and barriers with a platform height of up to 66′. Also referred to as “knuckle booms” or “up-and-over booms,” these versatile machines are perfect for tight access and hard-to-reach areas.",
+   "day": "$536",
+   "week": "$1,349",
+   "month": "$3,243",
+   "image": "/images/catalog/65-66-ft-diesel-articulating-boom-lift.webp"
+  },
+  {
+   "slug": "80-ft-diesel-articulating-boom-lift",
+   "ndSlug": "80-ft-diesel-articulationg-boom-lift",
+   "label": "80 ft Diesel Articulating Boom Lift",
+   "category": "aerial-work-platforms",
+   "overview": "80′ Articulating booms are aerial work platforms with multiple boom sections that hinge or “articulate” allowing the operator to gain access to work areas over obstacles and barriers with a maximum platform height of 80′. Also referred to as “knuckle booms” or “up-and-over booms,” these versatile machines are perfect for tight access and hard-to-reach areas.",
+   "day": "$855",
+   "week": "$2,515",
+   "month": "$5,399",
+   "image": "/images/catalog/80-ft-diesel-articulating-boom-lift.webp"
+  },
+  {
+   "slug": "10000-lbs-55-ft-telehandler",
+   "ndSlug": "10000-lbs-55-ft-telehandler",
+   "label": "10,000 lbs. 55 Ft Telehandler",
+   "category": "forklifts-material-handling",
+   "overview": "This 10k reach forklift is ideal for placement of material on the toughest terrain on any project both construction and industrial. With 48″ forks, it has a max lift height of 48′.",
+   "day": "$601",
+   "week": "$1,892",
+   "month": "$4,270",
+   "image": "/images/catalog/10000-lbs-55-ft-telehandler.webp"
+  },
+  {
+   "slug": "12000-lbs-55-ft-telehandler",
+   "ndSlug": "12000-lbs-55-ft-telehandler",
+   "label": "12,000 lbs. 55 Ft Telehandler",
+   "category": "forklifts-material-handling",
+   "overview": "This 12k reach forklift is ideal for placement of material on the toughest terrain on any project both construction and industrial. With 48″ forks, it has a max lift height of 55′.",
+   "day": "$716",
+   "week": "$2,910",
+   "month": "$5,603",
+   "image": "/images/catalog/12000-lbs-55-ft-telehandler.webp"
+  },
+  {
+   "slug": "5000-lbs-19-ft-telehandler",
+   "ndSlug": "5000-lbs-19-ft-telehandler",
+   "label": "5,000 lbs. 19 Ft Telehandler",
+   "category": "forklifts-material-handling",
+   "overview": "This 5k reach forklift is ideal for placement of material on the toughest terrain on any project both construction and industrial. With 48″ forks, it has a max lift height of 19′.",
+   "day": "$459",
+   "week": "$1,137",
+   "month": "$2,461",
+   "image": "/images/catalog/5000-lbs-19-ft-telehandler.webp"
+  },
+  {
+   "slug": "6000-lbs-36-42-ft-telehandler",
+   "ndSlug": "6000-lbs-36-42-ft-telehandler",
+   "label": "6,000 lbs. 36 – 42 Ft Telehandler",
+   "category": "forklifts-material-handling",
+   "overview": "This 6k reach forklift is ideal for placement of material on the toughest terrain on any project both construction and industrial. With 48″ forks, it has a max lift height of 36′.",
+   "day": "$483",
+   "week": "$1,378",
+   "month": "$2,550",
+   "image": "/images/catalog/6000-lbs-36-42-ft-telehandler.webp"
+  },
+  {
+   "slug": "8000-9000-lbs-44-ft-telehandler",
+   "ndSlug": "8000-9000-lbs-44-ft-telehandler",
+   "label": "8,000 – 9,000 lbs. 44 Ft Telehandler",
+   "category": "forklifts-material-handling",
+   "overview": "This 8k-9k reach forklift is ideal for placement of material on the toughest terrain on any project both construction and industrial. With 48″ forks, it has a max lift height of 42′.",
+   "day": "$536",
+   "week": "$1,532",
+   "month": "$3,068",
+   "image": "/images/catalog/8000-9000-lbs-44-ft-telehandler.webp"
+  },
+  {
+   "slug": "5000-6000-lbs-warehouse-forklift-semi-pneumatic",
+   "ndSlug": "5000-6000-lbs-warehouse-forklift-semi-pneumatic",
+   "label": "5,000-6,000 lbs. Warehouse Forklift Semi Pneumatic",
+   "category": "forklifts-material-handling",
+   "overview": "Standard warehouse forklift with 48″ forks that operates on gas or liquid propane. Max lift capacity 5,000-6,000 lbs. Great for handling palatalized loads and assisting with your stacking and lifting needs.",
+   "day": "$275",
+   "week": "$662",
+   "month": "$1,398",
+   "image": "/images/catalog/5000-6000-lbs-warehouse-forklift-semi-pneumatic.webp"
+  },
+  {
+   "slug": "1500-lbs-wheeled-skidsteer",
+   "ndSlug": "1500-lbs-wheeled-skidsteer",
+   "label": "1,500 lbs Wheeled Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small construction machine on wheels that can perform just about any materials handling, loading, grading or digging job in just about any environment. Wheeled skid steers work well on level, developed surfaces, such as hard-packed dirt, asphalt or concrete. They move much faster on these surfaces than tracked skid steers and can therefore cover more ground in less time. Tipping load 1,500 lbs. Can also accommodate an array of attachments.",
+   "day": "$319",
+   "week": "$1,024",
+   "month": "$2,291",
+   "image": "/images/catalog/1500-lbs-wheeled-skidsteer.webp"
+  },
+  {
+   "slug": "2500-lbs-wheeled-skidsteer",
+   "ndSlug": "2500-lbs-wheeled-skidsteer",
+   "label": "2,500 lbs Wheeled Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small construction machine on wheels that can perform just about any materials handling, loading, grading or digging job in just about any environment. Wheeled skid steers work well on level, developed surfaces, such as hard-packed dirt, asphalt or concrete. They move much faster on these surfaces than tracked skid steers and can therefore cover more ground in less time. Tipping load 2,500 lbs. Can also accommodate an array of attachments.",
+   "day": "$340",
+   "week": "$1,078",
+   "month": "$2,426",
+   "image": "/images/catalog/2500-lbs-wheeled-skidsteer.png"
+  },
+  {
+   "slug": "2700-lbs-wheeled-skidsteer",
+   "ndSlug": "2700-lbs-wheeled-skidsteer",
+   "label": "2,700 lbs Wheeled Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small construction machine on wheels that can perform just about any materials handling, loading, grading or digging job in just about any environment. Wheeled skid steers work well on level, developed surfaces, such as hard-packed dirt, asphalt or concrete. They move much faster on these surfaces than tracked skid steers and can therefore cover more ground in less time. Tipping load 2,700 lbs. Can also accommodate an array of attachments.",
+   "day": "$360",
+   "week": "$1,104",
+   "month": "$2,669",
+   "image": "/images/catalog/2700-lbs-wheeled-skidsteer.webp"
+  },
+  {
+   "slug": "2800-lbs-tracked-skidsteer",
+   "ndSlug": "2800-lbs-tracked-skidsteer",
+   "label": "2,800 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs. Tipping load 2,800 lbs. Can also accommodate an array of attachments.",
+   "day": "$495",
+   "week": "$1,416",
+   "month": "$3,641",
+   "image": "/images/catalog/2800-lbs-tracked-skidsteer.png"
+  },
+  {
+   "slug": "2900-lbs-tracked-skidsteer",
+   "ndSlug": "2900-lbs-tracked-skidsteer",
+   "label": "2,900 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs.Tipping load 2,900 lbs. Can also accommodate an array of attachments.",
+   "day": "$495",
+   "week": "$1,416",
+   "month": "$3,641",
+   "image": "/images/catalog/2900-lbs-tracked-skidsteer.webp"
+  },
+  {
+   "slug": "3000-lbs-tracked-skidsteer",
+   "ndSlug": "3000-lbs-tracked-skidsteer",
+   "label": "3,000 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs. Tipping load 3,000 lbs. Can also accommodate an array of attachments.",
+   "day": "$525",
+   "week": "$1,490",
+   "month": "$4,033",
+   "image": "/images/catalog/3000-lbs-tracked-skidsteer.webp"
+  },
+  {
+   "slug": "3200-lbs-tracked-skidsteer",
+   "ndSlug": "3200-lbs-tracked-skidsteer",
+   "label": "3,200 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs. Tipping Load 3,200 lbs. Can also accommodate an array of attachments. Models Include:",
+   "day": "$525",
+   "week": "$1,490",
+   "month": "$4,033",
+   "image": "/images/catalog/3200-lbs-tracked-skidsteer.webp"
+  },
+  {
+   "slug": "1900-lbs-tracked-skidsteer",
+   "ndSlug": "1900-lbs-tracked-skidsteer",
+   "label": "1,900 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs. Tipping load 1,900 lbs. Can also accommodate an array of attachments.",
+   "day": "$348",
+   "week": "$1,104",
+   "month": "$2,562",
+   "image": "/images/catalog/1900-lbs-tracked-skidsteer.webp"
+  },
+  {
+   "slug": "2000-lbs-tracked-skidsteer",
+   "ndSlug": "2000-lbs-tracked-skidsteer",
+   "label": "2,000 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs. Tipping load 2,000 lbs. Can also accommodate an array of attachments.",
+   "day": "$461",
+   "week": "$1,253",
+   "month": "$2,898",
+   "image": "/images/catalog/2000-lbs-tracked-skidsteer.webp"
+  },
+  {
+   "slug": "2500-lbs-tracked-skidsteer",
+   "ndSlug": "2500-lbs-tracked-skidsteer",
+   "label": "2,500 lbs Tracked Skidsteer",
+   "category": "earthmoving-equipment",
+   "overview": "Versatile small tracked construction machine ideal for job sites where its wet, muddy, snowy ground, loose gravel and loose sand conditions. Instead of sinking into soft surfaces, tracked skid steers float over surfaces. Works well with material handling, loading, grading or digging jobs. Tipping Load 2,500 lbs. Can also accommodate an array of attachments.",
+   "day": "$471",
+   "week": "$1,386",
+   "month": "$3,177",
+   "image": "/images/catalog/2500-lbs-tracked-skidsteer.webp"
+  },
+  {
+   "slug": "2-to-2-5-yd-articulated-wheel-loader",
+   "ndSlug": "2-to-2-5-yd-articulated-wheel-loader",
+   "label": "2 to 2.5 Yd. Articulated Wheel Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This 2-2.5 cubic yard articulated wheel loader is used to move aside or load stockpiled materials such as dirt, aggregates, rock, demo asphalt and concrete.",
+   "day": "$656",
+   "week": "$2,074",
+   "month": "$5,613",
+   "image": "/images/catalog/2-to-2-5-yd-articulated-wheel-loader.webp"
+  },
+  {
+   "slug": "4-yd-articulated-wheel-loader",
+   "ndSlug": "4-yd-articulated-wheel-loader",
+   "label": "4 Yd. Articulated Wheel Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This 4 cubic yard articulated wheel loader is used to move aside or load stockpiled materials such as dirt, aggregates, rock, demo asphalt and concrete.",
+   "day": "$942",
+   "week": "$2,930",
+   "month": "$7,713",
+   "image": "/images/catalog/4-yd-articulated-wheel-loader.webp"
+  },
+  {
+   "slug": "5-yd-articulated-wheel-loader",
+   "ndSlug": "5-yd-articulated-wheel-loader",
+   "label": "5 Yd. Articulated Wheel Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This 5 cubic yard articulated wheel loader is used to move aside or load stockpiled materials such as dirt, aggregates, rock, demo asphalt and concrete.",
+   "day": "$1,014",
+   "week": "$3,080",
+   "month": "$9,217",
+   "image": "/images/catalog/5-yd-articulated-wheel-loader.webp"
+  },
+  {
+   "slug": "skip-loader",
+   "ndSlug": "skip-loader",
+   "label": "Skip Loader",
+   "category": "earthmoving-equipment",
+   "overview": "Tractor Loader with a box scraper in the back and a multi purpose bucket in the front. Used in construction and agriculture tasks. Ideal for loading material like dirt, debris, and rubble into trucks. Also serves as a landscaping tractor with an ability to level and shape land.",
+   "day": "$412",
+   "week": "$1,431",
+   "month": "$3,073",
+   "image": "/images/catalog/skip-loader.webp"
+  },
+  {
+   "slug": "3-5-yd-articulated-wheel-loader",
+   "ndSlug": "3-5-yd-articulated-wheel-loader",
+   "label": "3.5 Yd. Articulated Wheel Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This 3.5 cubic yard articulated wheel loader is used to move aside or load stockpiled materials such as dirt, aggregates, rock, demo asphalt and concrete.",
+   "day": "$733",
+   "week": "$2,517",
+   "month": "$7,432",
+   "image": "/images/catalog/3-5-yd-articulated-wheel-loader.webp"
+  },
+  {
+   "slug": "4-in-walk-behind-trencher",
+   "ndSlug": "4-in-walk-behind-trencher",
+   "label": "4 in Walk Behind Trencher",
+   "category": "earthmoving-equipment",
+   "overview": "Walk-behind trencher designed for trenching utilities or footings. This unit is able to fit through tight spaces such as a typical backyard gate. Let us know what project you are tackling and we will be sure to provide the correct trencher to suit your needs.",
+   "day": "$306",
+   "week": "$834",
+   "month": "$1,486",
+   "image": "/images/catalog/4-in-walk-behind-trencher.webp"
+  },
+  {
+   "slug": "6-8-in-ride-on-trencher",
+   "ndSlug": "6-8-in-ride-on-trencher",
+   "label": "6-8 in Ride-On Trencher",
+   "category": "earthmoving-equipment",
+   "overview": "Ride-on trencher designed for trenching utilities or footings. These units typically have a front blade to assist with trench back fill. Let us know what project you are tackling and we will be sure to provide the correct trencher to suit your needs.",
+   "day": "$521",
+   "week": "$1,565",
+   "month": "$3,438",
+   "image": "/images/catalog/6-8-in-ride-on-trencher.webp"
+  },
+  {
+   "slug": "145-169-hp-motor-grader",
+   "ndSlug": "145-169-hp-motor-grader",
+   "label": "145-169 HP, Motor Grader",
+   "category": "earthmoving-equipment",
+   "overview": "Motor Graders, with their precision controls, are most commonly used to fine grade a surface to exact cut/slope specifications. Commonly used in the construction and maintenance of dirt roads and gravel roads, it uses its moldboard, or blade, for rough or fine grading.",
+   "day": "$1,375",
+   "week": "$4,290",
+   "month": "$12,870",
+   "image": "/images/catalog/145-169-hp-motor-grader.webp"
+  },
+  {
+   "slug": "170-199-hp-motor-grader",
+   "ndSlug": "170-199-hp-motor-grader",
+   "label": "170-199 HP, Motor Grader",
+   "category": "earthmoving-equipment",
+   "overview": "Motor Graders, with their precision controls, are most commonly used to fine grade a surface to exact cut/slope specifications. Commonly used in the construction and maintenance of dirt roads and gravel roads, it uses its moldboard, or blade, for rough or fine grading.",
+   "day": "$1,018",
+   "week": "$3,456",
+   "month": "$9,119",
+   "image": "/images/catalog/170-199-hp-motor-grader.webp"
+  },
+  {
+   "slug": "200-249-hp-motor-grader",
+   "ndSlug": "200-249-hp-motor-grader",
+   "label": "200-249 HP, Motor Grader",
+   "category": "earthmoving-equipment",
+   "overview": "Motor Graders, with their precision controls, are most commonly used to fine grade a surface to exact cut/slope specifications. Commonly used in the construction and maintenance of dirt roads and gravel roads, it uses its moldboard, or blade, for rough or fine grading.",
+   "day": "$1,375",
+   "week": "$4,290",
+   "month": "$12,870",
+   "image": "/images/catalog/200-249-hp-motor-grader.webp"
+  },
+  {
+   "slug": "6000-9000-lbs-mini-excavator",
+   "ndSlug": "6000-9000-lbs-mini-excavator",
+   "label": "6,000-9,000 lbs, Mini Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "Mini excavators have unsurpassed maneuverability. With an independent boom, these units provide offset digging capabilities around obstacles or alongside structures. These units offer more than just digging with their built in back fill blade and rubber tracks to reduce hard surface damage. *Max digging depth of up to 9 feet (Varies by exact machine)",
+   "day": "$389",
+   "week": "$1,163",
+   "month": "$2,686",
+   "image": "/images/catalog/6000-9000-lbs-mini-excavator.webp"
+  },
+  {
+   "slug": "10000-12000-lbs-mini-excavator",
+   "ndSlug": "10000-12000-lbs-mini-excavator",
+   "label": "10,000-12,000 lbs, Mini Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "Mini excavators have unsurpassed maneuverability. With an independent boom, these units provide offset digging capabilities around obstacles or alongside structures. These units offer more than just digging with their built in back fill blade and rubber tracks to reduce hard surface damage. *Max digging depth of up to 12 feet (Varies by exact machine)",
+   "day": "$428",
+   "week": "$1,236",
+   "month": "$3,362",
+   "image": "/images/catalog/10000-12000-lbs-mini-excavator.webp"
+  },
+  {
+   "slug": "12000-18000-lbs-mini-excavator",
+   "ndSlug": "12000-18000-lbs-mini-excavator",
+   "label": "12,000-18,000 lbs, Mini Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "Mini excavators have unsurpassed maneuverability. With an independent boom, these units provide offset digging capabilities around obstacles or alongside structures. These units offer more than just digging with their built in back fill blade. *Max digging depth of up to 15 feet (Varies by exact machine)",
+   "day": "$541",
+   "week": "$1,836",
+   "month": "$4,921",
+   "image": "/images/catalog/12000-18000-lbs-mini-excavator.webp"
+  },
+  {
+   "slug": "24000-28000-lbs-excavator",
+   "ndSlug": "24000-28000-lbs-excavator",
+   "label": "24,000-28,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "Small excavators have unsurpassed maneuverability. These units offer more than just digging with their built in back fill blade. *Max digging depth of up to 19.8 feet (Varies by exact machine)",
+   "day": "$770",
+   "week": "$2,232",
+   "month": "$5,368",
+   "image": "/images/catalog/24000-28000-lbs-excavator.webp"
+  },
+  {
+   "slug": "28000-32000-lbs-excavator",
+   "ndSlug": "28000-32000-lbs-excavator",
+   "label": "28,000-32,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "Small excavators have unsurpassed maneuverability. These units offer more than just digging with their built in back fill blade. *Max digging depth of up to 19.6 feet (Varies by exact machine)",
+   "day": "$833",
+   "week": "$2,301",
+   "month": "$5,918",
+   "image": "/images/catalog/28000-32000-lbs-excavator.webp"
+  },
+  {
+   "slug": "32000-38000-lbs-excavator",
+   "ndSlug": "32000-38000-lbs-excavator",
+   "label": "32,000-38,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "Small excavators have unsurpassed maneuverability. These units offer more than just digging with their built in back fill blade. *Max digging depth of up to 19.6 feet (Varies by exact machine)",
+   "day": "$910",
+   "week": "$2,541",
+   "month": "$6,332",
+   "image": "/images/catalog/32000-38000-lbs-excavator.webp"
+  },
+  {
+   "slug": "38000-42000-lbs-excavator",
+   "ndSlug": "38000-42000-lbs-excavator",
+   "label": "38,000-42,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "A large machine made for digging out earth with its bucket to create trenches, holes and foundations. It has a bucket, arm, rotating cab, and movable tracks. Known for its digging power and mobility, this heavy equipment is able to perform a variety of tasks.",
+   "day": "$896",
+   "week": "$2,530",
+   "month": "$7,590",
+   "image": "/images/catalog/38000-42000-lbs-excavator.webp"
+  },
+  {
+   "slug": "42000-48000-lbs-excavator",
+   "ndSlug": "42000-48000-lbs-excavator",
+   "label": "42,000-48,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "A large machine made for digging out earth with its bucket to create trenches, holes and foundations. It has a bucket, arm, rotating cab, and movable tracks. Known for its digging power and mobility, this heavy equipment is able to perform a variety of tasks.",
+   "day": "$1,009",
+   "week": "$3,148",
+   "month": "$7,462",
+   "image": "/images/catalog/42000-48000-lbs-excavator.webp"
+  },
+  {
+   "slug": "48000-56000-lbs-excavator",
+   "ndSlug": "48000-56000-lbs-excavator",
+   "label": "48,000-56,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "A large machine made for digging out earth with its bucket to create trenches, holes and foundations. It has a bucket, arm, rotating cab, and movable tracks. Known for its digging power and mobility, this heavy equipment is able to perform a variety of tasks.",
+   "day": "$1,135",
+   "week": "$3,343",
+   "month": "$7,848",
+   "image": "/images/catalog/48000-56000-lbs-excavator.webp"
+  },
+  {
+   "slug": "56000-66000-lbs-excavator",
+   "ndSlug": "56000-66000-lbs-excavator",
+   "label": "56,000-66,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "A large machine made for digging out earth with its bucket to create trenches, holes and foundations. It has a bucket, arm, rotating cab, and movable tracks. Known for its digging power and mobility, this heavy equipment is able to perform a variety of tasks.",
+   "day": "$1,870",
+   "week": "$5,390",
+   "month": "$12,725",
+   "image": "/images/catalog/56000-66000-lbs-excavator.webp"
+  },
+  {
+   "slug": "66000-80000-lbs-excavator",
+   "ndSlug": "66000-80000-lbs-excavator",
+   "label": "66,000-80,000 lbs, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "A large machine made for digging out earth with its bucket to create trenches, holes and foundations. It has a bucket, arm, rotating cab, and movable tracks. Known for its digging power and mobility, this heavy equipment is able to perform a variety of tasks.",
+   "day": "$2,034",
+   "week": "$4,947",
+   "month": "$13,488",
+   "image": "/images/catalog/66000-80000-lbs-excavator.webp"
+  },
+  {
+   "slug": "42000-48000-lbs-zero-swing-excavator",
+   "ndSlug": "42000-48000-lbs-zero-swing-excavator",
+   "label": "42,000-48,000 lbs Zero Swing, Excavator",
+   "category": "earthmoving-equipment",
+   "overview": "A large machine made for digging out earth with its bucket to create trenches, holes and foundations. The body or cab of this zero swing excavator will never go over the tracks of the machine as you rotate it. This means you can operate in tight, enclosed spaces without fear of damaging buildings or the excavator.",
+   "day": "$2,034",
+   "week": "$4,947",
+   "month": "$13,488",
+   "image": "/images/catalog/42000-48000-lbs-zero-swing-excavator.webp"
+  },
+  {
+   "slug": "70-84-hp-bulldozer",
+   "ndSlug": "70-84-hp-bulldozer",
+   "label": "70-84 HP, Bulldozer",
+   "category": "earthmoving-equipment",
+   "overview": "Crawler Bulldozers are rugged and built for precision control for a variety of earth moving applications. These units offer a standard push blade, or 6-way blade, and often come with rippers to break through the toughest soil conditions.",
+   "day": "$660",
+   "week": "$1,972",
+   "month": "$4,728",
+   "image": "/images/catalog/70-84-hp-bulldozer.webp"
+  },
+  {
+   "slug": "80-104-hp-bulldozer",
+   "ndSlug": "80-104-hp-bulldozer",
+   "label": "80-104 HP, Bulldozer",
+   "category": "earthmoving-equipment",
+   "overview": "Crawler Bulldozers are rugged and built for precision control for a variety of earth moving applications. These units offer a standard push blade, or 6-way blade, and often come with rippers to break through the toughest soil conditions.",
+   "day": "$685",
+   "week": "$2,275",
+   "month": "$5,674",
+   "image": "/images/catalog/80-104-hp-bulldozer.webp"
+  },
+  {
+   "slug": "105-129-hp-bulldozer",
+   "ndSlug": "105-129-hp-bulldozer",
+   "label": "105-129 HP, Bulldozer",
+   "category": "earthmoving-equipment",
+   "overview": "Crawler Bulldozers are rugged and built for precision control for a variety of earth moving applications. These units offer a standard push blade, or 6-way blade, and often come with rippers to break through the toughest soil conditions.",
+   "day": "$1,006",
+   "week": "$3,036",
+   "month": "$8,855",
+   "image": "/images/catalog/105-129-hp-bulldozer.webp"
+  },
+  {
+   "slug": "150-189-hp-bulldozer",
+   "ndSlug": "150-189-hp-bulldozer",
+   "label": "150-189 HP, Bulldozer",
+   "category": "earthmoving-equipment",
+   "overview": "Crawler Bulldozers are rugged and built for precision control for a variety of earth moving applications. These units offer a standard push blade, or 6-way blade, and often come with rippers to break through the toughest soil conditions.",
+   "day": "$1,540",
+   "week": "$4,048",
+   "month": "$12,144",
+   "image": "/images/catalog/150-189-hp-bulldozer.webp"
+  },
+  {
+   "slug": "190-259-hp-bulldozer",
+   "ndSlug": "190-259-hp-bulldozer",
+   "label": "190-259 HP, Bulldozer",
+   "category": "earthmoving-equipment",
+   "overview": "Crawler Bulldozers are rugged and built for precision control for a variety of earth moving applications. These units offer a standard push blade and often come with rippers to break through the toughest soil conditions.",
+   "day": "$1,562",
+   "week": "$4,301",
+   "month": "$13,486",
+   "image": "/images/catalog/190-259-hp-bulldozer.webp"
+  },
+  {
+   "slug": "14-15-ft-dig-depth-diesel-backhoe-loader",
+   "ndSlug": "14-15-ft-dig-depth-diesel-backhoe-loader",
+   "label": "14-15 ft Dig Depth Diesel Backhoe Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This multi-purpose Backhoe Loader is used for digging excavations between 14 and 15 feet in depth. These units can accommodate a variety of excavation bucket sizes and other attachments such as hydraulic breakers, compaction wheels, augers, and more. Please specify what buckets or attachments you require with your order.",
+   "day": "$456",
+   "week": "$1,424",
+   "month": "$2,970",
+   "image": "/images/catalog/14-15-ft-dig-depth-diesel-backhoe-loader.webp"
+  },
+  {
+   "slug": "15-16-ft-dig-depth-diesel-backhoe-loader",
+   "ndSlug": "15-16-ft-dig-depth-diesel-backhoe-loader",
+   "label": "15-16 ft Dig Depth Diesel Backhoe Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This multi-purpose Backhoe Loader is used for digging excavations between 15 and 16 feet in depth. These units can accommodate a variety of excavation bucket sizes and other attachments such as hydraulic breakers, compaction wheels, augers, and more. Please specify what buckets or attachments you require with your order.",
+   "day": "$598",
+   "week": "$1,752",
+   "month": "$4,063",
+   "image": "/images/catalog/15-16-ft-dig-depth-diesel-backhoe-loader.webp"
+  },
+  {
+   "slug": "17ft-dig-depth-diesel-backhoe-loader",
+   "ndSlug": "17ft-dig-depth-diesel-backhoe-loader",
+   "label": "17 ft+ Dig Depth Diesel Backhoe Loader",
+   "category": "earthmoving-equipment",
+   "overview": "This multi-purpose Backhoe Loader is used for digging excavations over 17 feet in depth. These units can accommodate a variety of excavation bucket sizes and other attachments such as hydraulic breakers, compaction wheels, augers, and more. Please specify what buckets or attachments you require with your order.",
+   "day": "$630",
+   "week": "$1,891",
+   "month": "$4,728",
+   "image": "/images/catalog/17ft-dig-depth-diesel-backhoe-loader.webp"
+  },
+  {
+   "slug": "24-34-in-double-drum-roller-diesel",
+   "ndSlug": "24-34-in-double-drum-roller-diesel",
+   "label": "24-34 in Double Drum Roller Diesel",
+   "category": "compaction",
+   "overview": "Trench rollers, also called multipurpose compactors, are used when work calls for compaction in trench-like conditions that can be very difficult to compact. Remotely operated, these units are great solution for a host of construction applications to limit personnel exposure to confined spaces or unprotected excavations.",
+   "day": "$375",
+   "week": "$1,078",
+   "month": "$2,285",
+   "image": "/images/catalog/24-34-in-double-drum-roller-diesel.webp"
+  },
+  {
+   "slug": "36-double-drum-roller",
+   "ndSlug": "36-double-drum-roller",
+   "label": "36 in Double Drum Roller",
+   "category": "compaction",
+   "overview": "36″ double drum roller is used primarily to compact paving materials, such as asphalt mixes and roller compacted concrete. This roller has two steel drums that vibrate via an internal, eccentric mechanism, which can be adjusted to vary the frequency and amplitude of the vibratory action.",
+   "day": "$235",
+   "week": "$726",
+   "month": "$2,001",
+   "image": "/images/catalog/36-double-drum-roller.webp"
+  },
+  {
+   "slug": "50-smooth-single-drum-roller",
+   "ndSlug": "50-smooth-single-drum-roller",
+   "label": "50 in Smooth Single Drum Roller",
+   "category": "compaction",
+   "overview": "The 50″ single drum roller has a vibratory drum in the front and has tires in the back. They are great for prep work. You can easily compact sub grade for a sidewalk or driveway. These devices are also good for creating foundations for buildings.",
+   "day": "$627",
+   "week": "$1,674",
+   "month": "$4,372",
+   "image": "/images/catalog/50-smooth-single-drum-roller.webp"
+  },
+  {
+   "slug": "47-48-double-drum-roller",
+   "ndSlug": "47-48-double-drum-roller",
+   "label": "47-48 in Double Drum Roller",
+   "category": "compaction",
+   "overview": "47-48″ double drum roller is used primarily to compact paving materials, such as asphalt mixes and roller compacted concrete. This roller has two steel drums that vibrate via an internal, eccentric mechanism, which can be adjusted to vary the frequency and amplitude of the vibratory action.",
+   "day": "$329",
+   "week": "$961",
+   "month": "$2,090",
+   "image": "/images/catalog/47-48-double-drum-roller.webp"
+  },
+  {
+   "slug": "67-double-drum-roller",
+   "ndSlug": "67-double-drum-roller",
+   "label": "67 in Double Drum Roller",
+   "category": "compaction",
+   "overview": "67″ double drum roller is used primarily to compact paving materials, such as asphalt mixes and roller compacted concrete. This roller has two steel drums that vibrate via an internal, eccentric mechanism, which can be adjusted to vary the frequency and amplitude of the vibratory action.",
+   "day": "$563",
+   "week": "$1,783",
+   "month": "$4,452",
+   "image": "/images/catalog/67-double-drum-roller.webp"
+  },
+  {
+   "slug": "84-double-drum-roller",
+   "ndSlug": "84-double-drum-roller",
+   "label": "84 in Double Drum Roller",
+   "category": "compaction",
+   "overview": "84″ double drum roller is used primarily to compact paving materials, such as asphalt mixes and roller compacted concrete. This roller has two steel drums that vibrate via an internal, eccentric mechanism, which can be adjusted to vary the frequency and amplitude of the vibratory action.",
+   "day": "$1,001",
+   "week": "$2,970",
+   "month": "$8,580",
+   "image": "/images/catalog/84-double-drum-roller.webp"
+  },
+  {
+   "slug": "12-in-jumping-jack",
+   "ndSlug": "12-in-jumping-jack",
+   "label": "12 in Jumping Jack",
+   "category": "compaction",
+   "overview": "12″ Jumping Jack Rammers are used for achieving optimum compaction results where other compaction methods, such as rollers, cannot be used.",
+   "day": "$123",
+   "week": "$380",
+   "month": "$764",
+   "image": "/images/catalog/12-in-jumping-jack.webp"
+  },
+  {
+   "slug": "4kw-towable-light-tower",
+   "ndSlug": "4kw-towable-light-tower",
+   "label": "4kW Towable Light Tower",
+   "category": "generators-light-towers",
+   "overview": "This 4,000 watt tow able light tower provides lighting that can be used for a variety of jobs, such as lighting up construction projects, maintenance projects, or outdoor events. This light tower is compact and portable, making for easy storage and transportation.",
+   "day": "$155",
+   "week": "$344",
+   "month": "$737",
+   "image": "/images/catalog/4kw-towable-light-tower.webp"
+  },
+  {
+   "slug": "5kw-10-kw-diesel-generator",
+   "ndSlug": "5kw-10-kw-diesel-generator",
+   "label": "5kW/10 kW Diesel Generator",
+   "category": "generators-light-towers",
+   "overview": "5-10 kW generators are portable generators that weigh less and can be relocated by 1-2 people. These units have 2-7 outlets for easy connection of multiple tools & appliances.",
+   "day": "$170",
+   "week": "$400",
+   "month": "$898",
+   "image": "/images/catalog/5kw-10-kw-diesel-generator.webp"
+  },
+  {
+   "slug": "10kw-20kw-diesel-generator",
+   "ndSlug": "10kw-20kw-diesel-generator",
+   "label": "10kW/20kW Diesel Generator",
+   "category": "generators-light-towers",
+   "overview": "10-20 kW Diesel powered generators are a perfect solution for temporary, standby, and emergency power uses. Provided with a trailer made for towing safely not just on streets but highways",
+   "day": "$201",
+   "week": "$539",
+   "month": "$1,108",
+   "image": "/images/catalog/10kw-20kw-diesel-generator.webp"
+  },
+  {
+   "slug": "20kw-30kw-diesel-generator",
+   "ndSlug": "20kw-30kw-diesel-generator",
+   "label": "20kW/30kW Diesel Generator",
+   "category": "generators-light-towers",
+   "overview": "20-30 kW Diesel powered generators are a perfect solution for temporary, standby, and emergency power uses. Provided with a trailer made for towing safely not just on streets but highways",
+   "day": "$223",
+   "week": "$590",
+   "month": "$1,345",
+   "image": "/images/catalog/20kw-30kw-diesel-generator.webp"
+  },
+  {
+   "slug": "40kw-50kw-diesel-generator",
+   "ndSlug": "40kw-50kw-diesel-generator",
+   "label": "40kW/50kW Diesel Generator",
+   "category": "generators-light-towers",
+   "overview": "40-50 kW Diesel powered generators are a perfect solution for temporary, standby, and emergency power uses. Provided with a trailer made for towing safely not just on streets but highways",
+   "day": "$309",
+   "week": "$766",
+   "month": "$1,923",
+   "image": "/images/catalog/40kw-50kw-diesel-generator.webp"
+  },
+  {
+   "slug": "2-in-trash-pump",
+   "ndSlug": "2-in-trash-pump",
+   "label": "2 in Trash Pump",
+   "category": "pumps-tanks-filtration",
+   "overview": "2” gas trash pump is a good fit for many dewatering applications, including excavations, utility vaults, swimming pools, mining work and more. Ability to pump water with solids as large as 1″ in diameter with a max capacity of Max capacity of 190-211 GPM.",
+   "day": "$91",
+   "week": "$280",
+   "month": "$682",
+   "image": "/images/catalog/2-in-trash-pump.webp"
+  },
+  {
+   "slug": "3-in-trash-pump",
+   "ndSlug": "3-in-trash-pump",
+   "label": "3 in Trash Pump",
+   "category": "pumps-tanks-filtration",
+   "overview": "3” gas trash pump is a good fit for many dewatering applications, including excavations, utility vaults, swimming pools, mining work and more. Ability to pump water with solids as large as 1.5″ in diameter with a max capacity of 356-400 GPM.",
+   "day": "$108",
+   "week": "$332",
+   "month": "$810",
+   "image": "/images/catalog/3-in-trash-pump.webp"
+  },
+  {
+   "slug": "4-in-trash-pump",
+   "ndSlug": "4-in-trash-pump",
+   "label": "4 in Trash Pump",
+   "category": "pumps-tanks-filtration",
+   "overview": "4” gas trash pump is a good fit for many dewatering applications, including excavations, utility vaults, swimming pools, mining work and more. Ability to pump water with solids as large as 2″ in diameter with a max capacity of 555-689 GPM.",
+   "day": "$124",
+   "week": "$390",
+   "month": "$974",
+   "image": "/images/catalog/4-in-trash-pump.webp"
+  },
+  {
+   "slug": "portable-hand-wash-station-2",
+   "ndSlug": "portable-hand-wash-station-2",
+   "label": "Portable Hand Wash Station",
+   "category": "portable-sanitation-services",
+   "overview": "Portable sink for construction and job sites that includes a liquid hand soap dispenser, hands free foot pumps, and paper towels.",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/portable-hand-wash-station-2.webp"
+  },
+  {
+   "slug": "double-trailer-portable-toilet-with-hand-wash",
+   "ndSlug": "double-trailer-portable-toilet-with-hand-wash",
+   "label": "Double Trailer Portable Toilet with Hand Wash",
+   "category": "portable-sanitation-services",
+   "overview": "Double unit portable restroom trailer with two individual restrooms and a hand wash sink.",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/double-trailer-portable-toilet-with-hand-wash.webp"
+  },
+  {
+   "slug": "single-trailer-portable-toilet-with-hand-wash",
+   "ndSlug": "single-trailer-portable-toilet-with-hand-wash",
+   "label": "Single Trailer Portable Toilet with Hand Wash",
+   "category": "portable-sanitation-services",
+   "overview": "Single unit portable restroom trailer with one private restroom and a hand wash sink.",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/single-trailer-portable-toilet-with-hand-wash.webp"
+  },
+  {
+   "slug": "20-ft-storage-container-single-door",
+   "ndSlug": "20-ft-storage-container-single-door",
+   "label": "20 ft Storage Container Single Door",
+   "category": "construction-site-services",
+   "overview": "20′ storage containers are ideal for easy and secure storage of building materials, excess inventory, equipment, and machinery. Accessible from locked cargo doors on one end. (20′ x 8′ x 8’6″)",
+   "day": "$44",
+   "week": "$99",
+   "month": "$209",
+   "image": "/images/catalog/20-ft-storage-container-single-door.webp"
+  },
+  {
+   "slug": "40-ft-storage-container-single-door",
+   "ndSlug": "40-ft-storage-container-single-door",
+   "label": "40 ft Storage Container Single Door",
+   "category": "construction-site-services",
+   "overview": "40′ storage containers are ideal for easy and secure storage of building materials, excess inventory, equipment, and machinery. Accessible from locked cargo doors on one end. (40′ x 8′ x 8’6″)",
+   "day": "$44",
+   "week": "$99",
+   "month": "$248",
+   "image": "/images/catalog/40-ft-storage-container-single-door.webp"
+  },
+  {
+   "slug": "10-ft-x-6-ft-temporary-fence-panel",
+   "ndSlug": "10-ft-x-6-ft-temporary-fence-panel",
+   "label": "10 ft x 6 ft Temporary Fence Panel",
+   "category": "construction-site-services",
+   "overview": "10′ x 6′ Temporary fence panels are popular at construction sites and at outdoor events to provide security and access. Temporary fence panels are portable and lightweight, but strong and sturdy for controlling pedestrian walkways, vehicular access and parking areas.",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/10-ft-x-6-ft-temporary-fence-panel.webp"
+  },
+  {
+   "slug": "10-yard-roll-off-trash-dumpster",
+   "ndSlug": "10-yard-roll-off-trash-dumpster",
+   "label": "10 Yard Roll Off Trash Dumpster",
+   "category": "construction-site-services",
+   "overview": "For Contractors or Homeowners that are working on a small scale project that leaves too much debris for the general curbside pickup. Need a place to throw away trash, building materials, etc? A 10 yard dumpster is a great option for trash or debris removal. (Approximate dimensions – 14′ x 7’6″ x 3’6″)",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/10-yard-roll-off-trash-dumpster.webp"
+  },
+  {
+   "slug": "20-yard-roll-off-trash-dumpster",
+   "ndSlug": "20-yard-roll-off-trash-dumpster",
+   "label": "20 Yard Roll Off Trash Dumpster",
+   "category": "construction-site-services",
+   "overview": "For Contractors or Homeowners who have small to mid-size projects with a need to dispose of general building materials and debris, use a 20 yard dumpster. Great for disposal of construction/demolition, solid waste, general waste. (Approximate dimensions – 22′ x 8′ x 4’3″)",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/20-yard-roll-off-trash-dumpster.webp"
+  },
+  {
+   "slug": "30-yard-roll-off-trash-dumpster",
+   "ndSlug": "30-yard-roll-off-trash-dumpster",
+   "label": "30 Yard Roll Off Trash Dumpster",
+   "category": "construction-site-services",
+   "overview": "For Contractors or Homeowners who have medium to large scale operation with a need to get rid of building materials, demolition, or debris, use a 30 yard dumpster. Great for disposal of construction/demolition, solid waste, general waste. (Approximate dimensions – 22′ x 8′ x 5’9″)",
+   "day": "$1.00",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/30-yard-roll-off-trash-dumpster.webp"
+  },
+  {
+   "slug": "40-yard-roll-off-trash-dumpster",
+   "ndSlug": "40-yard-roll-off-trash-dumpster",
+   "label": "40 Yard Roll Off Trash Dumpster",
+   "category": "construction-site-services",
+   "overview": "For Contractors or Homeowners who have a lot of building materials, demolition or debris to get rid of, use a 40 yard dumpster. Great for disposal of construction/demolition, solid waste, general waste. (Approximate dimensions – 22′ x 8′ x 7’9″)",
+   "day": "",
+   "week": "",
+   "month": "",
+   "image": "/images/catalog/40-yard-roll-off-trash-dumpster.webp"
+  },
+  {
+   "slug": "2000-gallon-water-truck",
+   "ndSlug": "2000-gallon-water-truck",
+   "label": "2,000 Gallon Water Truck",
+   "category": "trucks-trailers",
+   "overview": "Large vehicle equipped with a 2,000 gallon tank in the rear for transporting water and is outfitted with controlled spray heads around the truck for distributing it. Used often in a variety of fields such as dust control in construction, mining, farming and water tendering for fire control operations.",
+   "day": "$488",
+   "week": "$1,708",
+   "month": "$3,606",
+   "image": "/images/catalog/2000-gallon-water-truck.webp"
+  },
+  {
+   "slug": "4000-gallon-water-truck",
+   "ndSlug": "4000-gallon-water-truck",
+   "label": "4,000 Gallon Water Truck",
+   "category": "trucks-trailers",
+   "overview": "Large vehicle equipped with a 4,000 gallon tank in the rear for transporting water and controlled spray heads around the truck for distributing it. Used often in a variety of fields such as dust control in construction, mining, farming and water tendering for fire control operations.",
+   "day": "$619",
+   "week": "$2,385",
+   "month": "$6,079",
+   "image": "/images/catalog/4000-gallon-water-truck.webp"
+  },
+  {
+   "slug": "equipment-trailer",
+   "ndSlug": "equipment-trailer",
+   "label": "Equipment Trailer",
+   "category": "trucks-trailers",
+   "overview": "These trailers are very versatile. They can be used for transporting, loading and unloading equipment. Features a ball or pintle hitch and heavy duty stand. Comes in many different payload capacities to move various equipment from one job site to another.",
+   "day": "$488",
+   "week": "$1,708",
+   "month": "$3,606",
+   "image": "/images/catalog/equipment-trailer.webp"
+  },
+  {
+   "slug": "cargo-trailer",
+   "ndSlug": "cargo-trailer",
+   "label": "Cargo Trailer",
+   "category": "trucks-trailers",
+   "overview": "These enclosed cargo trailers easily attach to your vehicle and provide the extra room you need for tools, equipment and supplies.",
+   "day": "$108",
+   "week": "$468",
+   "month": "$1,265",
+   "image": "/images/catalog/cargo-trailer.webp"
+  },
+  {
+   "slug": "5-6-yard-dump-truck",
+   "ndSlug": "5-6-yard-dump-truck",
+   "label": "5-6 Yard Dump Truck",
+   "category": "trucks-trailers",
+   "overview": "5-6 yard dump trucks are used for transporting bulk materials like gravel, demolition waste or sand for small to mid sized projects. Equipped with an open box bed and hydraulic rams allows the load in the bed to be dumped.",
+   "day": "$374",
+   "week": "$1,078",
+   "month": "$3,479",
+   "image": "/images/catalog/5-6-yard-dump-truck.webp"
+  },
+  {
+   "slug": "10-12-yard-dump-truck",
+   "ndSlug": "10-12-yard-dump-truck",
+   "label": "10-12 Yard Dump Truck",
+   "category": "trucks-trailers",
+   "overview": "10-12 yard dump trucks are used for transporting bulk materials like gravel, demolition waste or sand for large projects. Equipped with an open box bed and hydraulic rams allows the load in the bed to be dumped.",
+   "day": "$791",
+   "week": "$2,423",
+   "month": "$6,323",
+   "image": "/images/catalog/10-12-yard-dump-truck.webp"
+  }
+ ]
+}
