@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
-import { Instrument_Sans, JetBrains_Mono, Plus_Jakarta_Sans } from "next/font/google";
 import "leaflet/dist/leaflet.css";
 import "./globals.css";
 import ScrollReveal from "@/components/ScrollReveal";
+import { fontVars } from "./fonts";
 
-const jakarta = Plus_Jakarta_Sans({ variable: "--font-jakarta", subsets: ["latin"] });
-const instrument = Instrument_Sans({ variable: "--font-instrument", subsets: ["latin"] });
-const jetbrains = JetBrains_Mono({ variable: "--font-jetbrains", subsets: ["latin"] });
+// Root layout for the original site (home1 and every inner page). /home2 has its own root layout in app/(home2),
+// so the two designs' global styles never load together; moving between them is a full page load.
 
 export const metadata: Metadata = {
   title: "National Dispatching | Reliable Equipment Rentals & Material Supply Across the U.S",
@@ -21,7 +20,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html
       lang="en"
-      className={`${jakarta.variable} ${instrument.variable} ${jetbrains.variable}`}
+      className={fontVars}
       data-scroll-behavior="smooth"
       suppressHydrationWarning
     >
