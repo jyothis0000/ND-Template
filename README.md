@@ -13,7 +13,8 @@ npm run build
 
 | Route | What it is |
 |---|---|
-| `/` | Homepage |
+| `/`, `/home1` | Homepage (`/home1` is the same page, canonical to `/`) |
+| `/home2`, `/home2/privacy` | Second homepage design (merged from the `national-dispatching-2` app) and its privacy page |
 | `/equipment`, `/equipment/[category]` | All equipment and the 9 categories (reference "Our Materials" listing) |
 | `/products/[slug]` | 89 product pages (reference product page) |
 | `/services/[slug]` | Rentals, Materials, Trucking, Subcontracting, Procurement & Dispatching (reference "For Contractors" layout) |
@@ -21,6 +22,16 @@ npm run build
 | `/blog`, `/blog/page/[n]`, `/blog/[slug]` | 134 articles (reference guides index and article) |
 | `/search?q=` | Site search over equipment, categories, services and articles |
 | `/cart`, `/checkout` | Full cart and checkout; the mini cart drawer opens from the header |
+
+## Two homepage designs
+
+`app/` holds two route groups, each with its own root layout, so their global styles never load together:
+
+- `app/(site)/` — the original site: `/`, `/home1` and every inner page (Tailwind, `globals.css`, fonts in `fonts.ts`).
+- `app/(home2)/` — `/home2` and `/home2/privacy` with their own stylesheet (`home2.css`), Poppins, header and footer.
+  Code in `components/home2/` and `lib/home2/site.ts`, images in `public/images/home2/`.
+
+Links between the two groups do a full page load. Unknown URLs render `app/global-not-found.tsx`.
 
 ## Cart
 
